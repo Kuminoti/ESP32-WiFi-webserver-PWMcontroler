@@ -1,0 +1,9 @@
+Enter your WiFi name und your password in the code and upload.
+The serial monitor will Output the ESP's IP-Adress.
+Paste the IP-Adress inside your webbrowser and a HTML-document will show up.
+
+"Aktivate" your pins with clicking on the onbutton and Control your PWM-divices
+on the pinns 0, 2 and 4 (More pinns will be added soon) with the HTML-sliders.
+The HTML-document ist stored inside the "wabpage" variable its easy to modify
+if you know some HTML, CSS and Javascript. 
+I used an AJAX method to create the PWM-signals. 
