@@ -107,8 +107,6 @@ webpage = "\<!DOCTYPE html> \
     </header>\
     <div class=\"main\"> \
       <div class=\"navbar\"> \
-        <ul><li><h3>Github</h3><li></ul> \
-        <li id =\"ana\">Grün:<li> \
       </div> \
     <div class=\"content\">\ 
       <p>Wohnzimmerlicht aus</p>\
