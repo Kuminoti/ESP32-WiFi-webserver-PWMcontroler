@@ -4,8 +4,7 @@
 #define freq 1000                                       //pwm frequency 1kHz            
 #define resolution 8                                    //pwm resolution 0-255
 
-#define timeoutTime 2000
-                                                        //Enter your SSID and WI-FI password
+#define timeoutTime 2000                                //Enter your SSID and WI-FI password
 #define ssid "EasyBox-042179"
 #define password "AE3Y8yT93x4uHPeT"                      
 
