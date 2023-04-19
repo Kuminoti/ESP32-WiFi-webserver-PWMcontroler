@@ -366,8 +366,3 @@ else{
 
 }
 
-
-// <input type=\"range\" min=\"0\" max=\"254\" id=\"Slider\"  class=\"red\" onchange=\"Led1(this.value)\"value=\""+valueString+"\">\   
-//      <input type=\"range\" min=\"0\" max=\"254\" id=\"Slider2\"  class=\"green\" onchange=\"Led2(this.value)\"value=\""+valueString2+"\">\
-//      <input type=\"range\" min=\"0\" max=\"254\" id=\"Slider3\"  class=\"blue\" onchange=\"Led3(this.value)\"value=\""+valueString3+"\">\
-     
