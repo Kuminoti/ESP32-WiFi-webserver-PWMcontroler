@@ -5,8 +5,8 @@
 #define resolution 8                                    //pwm resolution 0-255
 
 #define timeoutTime 2000                                //Enter your SSID and WI-FI password
-#define ssid "EasyBox-042179"
-#define password "AE3Y8yT93x4uHPeT"                      
+#define ssid ""
+#define password ""                      
 
 WiFiServer server(80);                                  //Server on port 80
 
